@@ -1,0 +1,5 @@
+./weights
+weights/depth_gen.ckpt
+weights/depth_single_view.ckpt
+weights/pano_outpaint.ckpt
+weights/pano.ckpt
